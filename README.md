@@ -16,16 +16,16 @@ Alert generation for overspeed events
 ⚙️ Tech Stack
 
 Software:
-Embedded C++ (Arduino IDE)
-ESP32 Microcontroller Programming
+  Embedded C++ (Arduino IDE)
+  ESP32 Microcontroller Programming
 Hardware:
-ESP32
-Ultrasonic Sensors
-GPS Module
-LCD Display (16x2)
-Power Supply (USB)
+  ESP32
+  Ultrasonic Sensors
+  GPS Module
+  LCD Display (16x2)
+  Power Supply (USB)
 
-Working Principle
+🔍 Working Principle
 
 1. Distance Measurement
    Ultrasonic sensors measure distance of the vehicle over time
